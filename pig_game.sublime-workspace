@@ -1,0 +1,869 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"relie",
+				"relief=\tparam"
+			],
+			[
+				"pla",
+				"player2_name\tstatement"
+			],
+			[
+				"player1",
+				"player1_name\tstatement"
+			],
+			[
+				"btn",
+				"btn_hold"
+			],
+			[
+				"turn",
+				"turn_score"
+			],
+			[
+				"dif",
+				"difficulty_selection\tstatement"
+			],
+			[
+				"bot_box",
+				"bot_box_layout\tstatement"
+			],
+			[
+				"titl",
+				"title_location=\tparam"
+			],
+			[
+				"border",
+				"border_width=\tparam"
+			],
+			[
+				"diff",
+				"diff_box_layout\tstatement"
+			],
+			[
+				"elem",
+				"element_justification=\tparam"
+			],
+			[
+				"con",
+				"cont\tstatement"
+			],
+			[
+				"tool",
+				"tooltip=\tparam"
+			],
+			[
+				"Inp",
+				"InputText\tclass"
+			],
+			[
+				"name",
+				"name_window1\tstatement"
+			],
+			[
+				"None",
+				"None\tkeyword"
+			],
+			[
+				"nape",
+				"name_entry_2p\tstatement"
+			],
+			[
+				"wind",
+				"window2\tstatement"
+			],
+			[
+				"even",
+				"event2\tstatement"
+			],
+			[
+				"layt",
+				"layout2\tstatement"
+			],
+			[
+				"expan",
+				"expand_y\tparam"
+			],
+			[
+				"cont",
+				"cont"
+			],
+			[
+				"element",
+				"element_list\tfunction"
+			],
+			[
+				"sele",
+				"selectGame\tmodule"
+			],
+			[
+				"bt",
+				"btn_roll"
+			],
+			[
+				"reli",
+				"relief=\tparam"
+			],
+			[
+				"ref",
+				"relief=\tparam"
+			],
+			[
+				"playe",
+				"player2_box\tstatement"
+			],
+			[
+				"player",
+				"player1_box\tstatement"
+			],
+			[
+				"disp",
+				"display_box\tstatement"
+			],
+			[
+				"time",
+				"timedelta\tclass"
+			],
+			[
+				"Qm",
+				"QMainWindow\tclass"
+			],
+			[
+				"da",
+				"datetime\tclass"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"texts",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"send",
+				"sendButton"
+			],
+			[
+				"show",
+				"showMessage"
+			],
+			[
+				"exit",
+				"exit_action"
+			],
+			[
+				"file",
+				"file_name\tstatement"
+			],
+			[
+				"convo",
+				"convo_id\tstatement"
+			],
+			[
+				"re",
+				"reconnect_bool\tstatement"
+			],
+			[
+				"rec",
+				"reconnected\tstatement"
+			],
+			[
+				"msg_",
+				"msg_received\tstatement"
+			],
+			[
+				"dis",
+				"disp_msg\tstatement"
+			],
+			[
+				"ms",
+				"msg_received\tstatement"
+			],
+			[
+				"m",
+				"message\tparam"
+			],
+			[
+				"sende",
+				"sender_id\tparam"
+			],
+			[
+				"pyqt",
+				"pyqtSignal\tclass"
+			],
+			[
+				"is",
+				"isRunning\tmodule"
+			],
+			[
+				"conn",
+				"connect_to_server\tfunction"
+			],
+			[
+				"cur",
+				"cur_thread\tstatement"
+			],
+			[
+				"use",
+				"username_string\tstatement"
+			],
+			[
+				"user",
+				"username_response\tstatement"
+			],
+			[
+				"ttp",
+				"ttppacket\tparam"
+			],
+			[
+				"usern",
+				"username_arr\tparam"
+			],
+			[
+				"setPee",
+				"setPeerPort\tmodule"
+			],
+			[
+				"bytes",
+				"bytes_arr\tparam"
+			],
+			[
+				"R",
+				"reset_sequence_if_larger\tfunction"
+			],
+			[
+				"Q",
+				"QtNetwork\tmodule"
+			],
+			[
+				"rece",
+				"_received_sequences\tstatement"
+			],
+			[
+				"rese",
+				"resend\tfunction"
+			],
+			[
+				"p",
+				"_pending_sent_datagrams\tstatement"
+			],
+			[
+				"num",
+				"numtimeouts\tstatement"
+			],
+			[
+				"run",
+				"_running\tstatement"
+			],
+			[
+				"se",
+				"_send_window\tstatement"
+			],
+			[
+				"data",
+				"_datagram_send_list\tstatement"
+			],
+			[
+				"nu",
+				"numtimeouts\tstatement"
+			],
+			[
+				"max",
+				"MAX_DATAGRAM_SIZE\tstatement"
+			],
+			[
+				"write",
+				"writeDatagram\tmodule"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"MAX",
+				"MAX_PENDING_DATAGRAMS\tstatement"
+			],
+			[
+				"resi",
+				"resize_editor\tfunction"
+			],
+			[
+				"login",
+				"login_window\tfunction"
+			],
+			[
+				"add",
+				"addWidget\tmodule"
+			],
+			[
+				"set",
+				"setText\tmodule"
+			],
+			[
+				"input",
+				"input_layout\tstatement"
+			],
+			[
+				"log",
+				"login_error_window\tstatement"
+			],
+			[
+				"pas",
+				"password_string\tstatement"
+			],
+			[
+				"Yes",
+				"YesRole\tinstance"
+			],
+			[
+				"lo",
+				"login_username\tstatement"
+			],
+			[
+				"setS",
+				"setStyleSheet\tmodule"
+			],
+			[
+				"sets",
+				"setStyleSheet\tmodule"
+			],
+			[
+				"dock",
+				"dock_label\tstatement"
+			],
+			[
+				"dockl",
+				"dock_label\tstatement"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"conv",
+				"conversations\tstatement"
+			],
+			[
+				"conve",
+				"conversation_list\tstatement"
+			],
+			[
+				"setMa",
+				"setMaxLength\tmodule"
+			],
+			[
+				"setmin",
+				"setMinimumWidth\tmodule"
+			],
+			[
+				"setmi",
+				"setMinimumWidth\tmodule"
+			],
+			[
+				"res",
+				"resources"
+			],
+			[
+				"setWindow",
+				"setWindowIcon\tmodule"
+			],
+			[
+				"serve",
+				"server_port\tstatement"
+			],
+			[
+				"t",
+				"trigger\tmodule"
+			],
+			[
+				"wait",
+				"waitForReadyRead\tmodule"
+			],
+			[
+				"co",
+				"connection_socket\tstatement"
+			],
+			[
+				"s",
+				"start\tmodule"
+			],
+			[
+				"readDa",
+				"readDatagram\tmodule"
+			],
+			[
+				"wr",
+				"writeDatagram\tmodule"
+			],
+			[
+				"QKey",
+				"QKeyEvent\tclass"
+			],
+			[
+				"key",
+				"keyPressEvent\tmodule"
+			],
+			[
+				"cons",
+				"conversationHistory\tstatement"
+			],
+			[
+				"cli",
+				"clicked\tmodule"
+			],
+			[
+				"h",
+				"h_box\tstatement"
+			],
+			[
+				"Qt",
+				"QtGui\tmodule"
+			],
+			[
+				"chat",
+				"chatHistory\tclass"
+			],
+			[
+				"conversa",
+				"conversation_list\tstatement"
+			],
+			[
+				"su",
+				"super\tclass"
+			],
+			[
+				"Sear",
+				"SearchTerm"
+			],
+			[
+				"Sea",
+				"SearchTerm"
+			],
+			[
+				"iter",
+				"iters-1"
+			],
+			[
+				"sys",
+				"sysout\tsysout"
+			],
+			[
+				"cust",
+				"customerlist\tstatement"
+			],
+			[
+				"cus",
+				"customerlist\tstatement"
+			],
+			[
+				"rea",
+				"readlines\tfunction"
+			],
+			[
+				"sy",
+				"sysout\tsysout"
+			],
+			[
+				"ad",
+				"add"
+			],
+			[
+				"next",
+				"nextLong"
+			],
+			[
+				"nex",
+				"nextLong"
+			],
+			[
+				"pl",
+				"pl\tprintln"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: my",
+				"Snippet: myclass"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"Snippet: for",
+				"Snippet: for"
+			],
+			[
+				"snippets: class",
+				"Snippet: class"
+			],
+			[
+				"p\t",
+				"Preferences: Settings"
+			],
+			[
+				"Snippet: main",
+				"Snippet: method (main)"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: __magic__"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insl",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Permute Lines: Unique"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"print(\"test\")",
+			"echo test",
+			"echo tet",
+			"import os; package_path = os.path.join(sublime.packages_path(), \"C4BStudent\"); os.mkdir(package_path) if not os.path.isdir(package_path) else print(\"dir exists\"); c4b_py = os.path.join(package_path, \"Code4Brownies.py\") ; c4b_menu = os.path.join(package_path, \"Main.sublime-menu\"); c4b_version = os.path.join(package_path, \"VERSION\"); import urllib.request; urllib.request.urlretrieve(\"https://raw.githubusercontent.com/vtphan/Code4Brownies/master/src/C4BStudent/Code4Brownies.py\", c4b_py); urllib.request.urlretrieve(\"https://raw.githubusercontent.com/vtphan/Code4Brownies/master/src/C4BStudent/Main.sublime-menu\", c4b_menu); urllib.request.urlretrieve(\"https://raw.githubusercontent.com/vtphan/Code4Brownies/master/src/VERSION\", c4b_version)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Daniel/Projects/Pig Game/selectGame.py",
+		"/C/Users/Daniel/Projects/Pig Game/player.py",
+		"/C/Users/Daniel/Projects/Pig Game/main.py",
+		"/C/Users/Daniel/AppData/Roaming/Rainmeter/Rainmeter.ini",
+		"/C/Users/Daniel/Documents/Rainmeter/Skins/Honeycomb/minecraft/minecraft_alt_icon.ini",
+		"/C/Users/Daniel/Documents/Rainmeter/Skins/Honeycomb/notepad/notepad.ini",
+		"/C/Users/Daniel/Documents/Rainmeter/Skins/mnml UI/Clock Neo Style/Clock Neo Style.ini",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-mousemap",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/Daniel/Projects/Pig Game/pig_game.sublime-project",
+		"/C/Users/Daniel/Projects/Phone Bill/phone_calc.py",
+		"/C/Users/Daniel/Projects/Phone Bill Split/main.py",
+		"/C/Users/Daniel/Documents/Rainmeter/Skins/Honeycomb/chrome/chrome.ini",
+		"/C/Users/Daniel/Projects/google_shct.bat",
+		"/C/Windows/explorer.exe",
+		"/C/Users/Daniel/Desktop/google_shct.bat",
+		"/C/Users/Daniel/Documents/Rainmeter/Skins/Honeycomb/folder/folder.ini",
+		"/C/Users/Daniel/Desktop/stuff/finances.py",
+		"/C/Users/Daniel/code/go/src/login/login.go",
+		"/C/Users/Daniel/Documents/Rainmeter/Skins/Honeycomb/speedfan/speedfan.ini",
+		"/C/Users/Daniel/Documents/Rainmeter/Skins/Honeycomb/rainmeter/rainmeter.ini",
+		"/C/Users/Daniel/Documents/Rainmeter/Skins/illustro/Google/Google.ini",
+		"/C/Users/Daniel/Desktop/SuperPixelProject/SuperPixel/main.py",
+		"/C/Users/Daniel/Desktop/TigerChat/python_client/main.py",
+		"/C/Users/Daniel/Desktop/Phone Bill/phone_calc.py",
+		"/C/Users/Daniel/Desktop/Phone Bill/texter.py",
+		"/C/Users/Daniel/Desktop/Kattis/planina/planina.py",
+		"/C/Users/Daniel/Desktop/Kattis/quadrant_selection/quadrant.py",
+		"/C/Users/Daniel/Desktop/Kattis/r2/r2.py",
+		"/C/Users/Daniel/Desktop/Kattis/bela/Bela.py",
+		"/C/Users/Daniel/Desktop/Kattis/solving_for_carrots.py",
+		"/C/Users/Daniel/Desktop/dlinn12/dlinn12.github.io/projects.html",
+		"/C/Users/Daniel/Desktop/dlinn12/dlinn12.github.io/style.css",
+		"/C/Users/Daniel/Desktop/dlinn12/dlinn12.github.io/index.html",
+		"/D/Daniel/Documents/College Stuff/Eclipse Projects/_12_05_MoreMoney/src/MoreMoney.java",
+		"/D/Daniel/Documents/College Stuff/Eclipse Projects/Hello_World/src/Text.java",
+		"/D/Daniel/Documents/College Stuff/Eclipse Projects/LinnHW1/src/Problem1.java",
+		"/D/Daniel/Documents/College Stuff/Eclipse Projects/Bonus_Question/src/Bonus.java",
+		"/D/Daniel/Documents/College Stuff/Eclipse Projects/_9_26_TheBestProgram_Linn/src/TheBestProgram.java",
+		"/D/Daniel/Documents/College Stuff/Eclipse Projects/HelloGUI/src/BasicHello.java",
+		"/C/Users/Daniel/Desktop/dlinn12/dlinn12.github.io/.git/COMMIT_EDITMSG",
+		"/C/Users/Daniel/Desktop/dlinn12/dlinn12.github.io/README.md",
+		"/C/Users/Daniel/Desktop/dlinn12/dlinn12.github.io/dlinnsiteproj.sublime-project",
+		"/C/Users/Daniel/Desktop/mysite/polls/models.py",
+		"/C/Users/Daniel/Desktop/mysite/polls/views.py",
+		"/C/Users/Daniel/Desktop/dlinn12/dlinn12.github.io/style/site_style.css",
+		"/C/Users/Daniel/Desktop/ICPC workspace/no_duplicates/NoDuplicates.java",
+		"/C/Users/Daniel/Desktop/mysite/mysite/settings.py",
+		"/C/Users/Daniel/Desktop/mysite/polls/admin.py",
+		"/C/Users/Daniel/Desktop/mysite/polls/apps.py",
+		"/C/Users/Daniel/Desktop/mysite/polls/urls.py",
+		"/C/Users/Daniel/Desktop/mysite/mysite/urls.py",
+		"/C/Users/Daniel/Desktop/mysite/polls_project.sublime-project",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Terminality/README.md",
+		"/C/Users/Daniel/Desktop/tracker/server.py",
+		"/C/Users/Daniel/Desktop/tracker/webserver.py",
+		"/C/Users/Daniel/Desktop/tracker/index.html",
+		"/C/Users/Daniel/Desktop/tracker/test.html",
+		"/C/Users/Daniel/Desktop/libraryworld/marcreader.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wedding",
+			"@",
+			"print",
+			"http",
+			"d/m/y",
+			"fore/middle",
+			"surname",
+			"sql_enabled",
+			"sql",
+			"sql sw",
+			"insurance",
+			"self.central_widget.setLayout(self.v_box)",
+			"prorate",
+			"        \n",
+			"conversation_partner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"19/6/2254",
+			"7/5/2254",
+			"Lucas Gabriel",
+			"James",
+			"bill_total"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 97.0
+	},
+	"output.exec":
+	{
+		"height": 97.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 121.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "pig_game.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Daniel\\Desktop\\4030\\4030_3.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 69.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
